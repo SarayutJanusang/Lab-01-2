@@ -4,6 +4,7 @@
 
 =======
 #include <stdio.h> 
+
 int main () 
 { 
 char Sarayut[100]; 
