@@ -1,5 +1,6 @@
 # Lab-01-2
 #include <stdio.h> 
+
 int main () 
 { 
 char Sarayut[100]; 
